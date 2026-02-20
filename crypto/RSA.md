@@ -5,3 +5,4 @@
 Calculation:
 
 select 2 primes p, q.
+calculate a modulus value n = p * q.
